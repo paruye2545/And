@@ -1,95 +1,39 @@
 {
-   "files": [    
+
+"files": [   
+
+{ "name": "AIS-TH-RcadyIDC",
+
+"url":"https://raw.githubusercontent.com/paruye2545/-/main/TH-TRUE-NOPRO.8.ovpn" },
+
+{ "name": "TRUE-TH-RcadyIDC",
+
+"url":"https://raw.githubusercontent.com/paruye2545/-/main/TH-TRUE-NOPRO.8.ovpn" },
 
 
 
-{
-         "name": "SG-AIS-FREE01",
-         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-01-A.ovpn"
-      }
-,
-{
-         "name": "SG-DTAC-FREE01",
-         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-01-D.ovpn"
-      }
-,
-{
-         "name": "SG-TRUE-FREE01",
-         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-01-T.ovpn"
-      }
-,
-{
-         "name": "SG-AIS-FREE02",
-         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-02-A.ovpn"
-      }
-,
-{
-         "name": "SG-DTAC-FREE02",
-         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-02-D.ovpn"
-      }
-,
-{
-         "name": "SG-TRUE-FREE02",
-         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-02-T.ovpn"
-      }
-{
-         "name": "SG-AIS-FREE03",
-         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-03-A.ovpn"
-      }
-,
-{
-         "name": "SG-DTAC-FREE03",
-         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-03-D.ovpn"
-      }
-,
-{
-         "name": "SG-TRUE-FREE03",
-         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-03-T.ovpn"
-      }
-,
-{
-         "name": "SG-AIS-FREE04",
-         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-04-A.ovpn"
-      }
-,
-{
-         "name": "SG-DTAC-FREE04",
-         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-04-D.ovpn"
-      }
-,
-{
-         "name": "SG-TRUE-FREE04",
-         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-04-T.ovpn"
-      }
-{
-         "name": "SG-AIS-FREE05",
-         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-05-A.ovpn"
-      }
-,
-{
-         "name": "SG-DTAC-FREE05",
-         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-05-D.ovpn"
-      }
-,
-{
-         "name": "SG-TRUE-FREE05",
-         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-05-T.ovpn"
-      }
+{ "name": "DTAC-TH-RcadyIDC",
 
+"url":"https://raw.githubusercontent.com/paruye2545/-/main/TH-TRUE-NOPRO.8.ovpn" }
 
+    
 
-   ],
-"message":"
-■■■■■■■■■■■■■■
-🔔Update 1.1
-■■■■■■■■■■■■■■
-📗Ais PRO AIS play
-📕True FREE NO pro
-📘Dtac FREE NO pro
-■■■■■■■■■■■■■■
+],
 
+"message":" 
 
-\n\nเวอร์ชั่นไฟล์:1",
-"title":"New Update File" ,
-   "version":1
-}
+📱รองรับการใช้งานทุกเครือข่าย
+
+คอนฟิกเวอร์ชั่น:8
+
+อัพเดทเมื่อวันที่:02/มิ.ย/2023
+
+Copyright © 2022 NET-D LIMITED
+
+\n  ",
+
+"title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
+
+"version":8
+
+}...
