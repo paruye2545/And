@@ -4,7 +4,7 @@
 
 {
 
-         "name": "RCADYIDC-TH-01-AIS",
+         "name": "TH-01-AIS",
 
          "url": "https://raw.githubusercontent.com/paruye2545/NET-D-SCARZ-/main/SCARZ_TH_AIS.1.ovpn"
 
@@ -14,7 +14,7 @@
 
 {
 
-         "name": "RCADYIDC-TH-01-DTAC",
+         "name": "TH-01-DTAC",
 
          "url": "https://raw.githubusercontent.com/paruye2545/NET-D-SCARZ-/main/CAT-DTAC-NOPRO.1.ovpn"
 
@@ -24,7 +24,7 @@
 
 {
 
-         "name": "RCADYIDC-TH-01-TRUE",
+         "name": "TH-01-TRUE",
 
          "url": "https://raw.githubusercontent.com/paruye2545/NET-D-SCARZ-/main/CAT-TRUE-NOPRO.3.ovpn"
 
@@ -36,10 +36,6 @@
 
 ■■■■■■■■■■■■■■
 
-🔔Update 1.2
-
-■■■■■■■■■■■■■■
-
 📗Ais PRO AIS play
 
 📕True FREE NO pro
@@ -48,10 +44,10 @@
 
 ■■■■■■■■■■■■■■
 
-\n\nเวอร์ชั่นไฟล์:1.2",
+\n\nเวอร์ชั่นไฟล์:1",
 
 "title":"New Update File" ,
 
-   "version":1.2
+   "version":1
 
-}
+} 
