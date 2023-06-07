@@ -1,0 +1,23 @@
+{
+"files": [   
+
+{ "name": "AIS-TH-RcadyIDC",
+"url":"https://raw.githubusercontent.com/paruye2545/-/main/TH-TRUE-NOPRO.8.ovpn" },
+
+{ "name": "TRUE-TH-RcadyIDC",
+"url":"https://raw.githubusercontent.com/paruye2545/-/main/TH-TRUE-NOPRO.8.ovpn" },
+
+{ "name": "DTAC-TH-RcadyIDC",
+"url":"https://raw.githubusercontent.com/paruye2545/-/main/TH-TRUE-NOPRO.8.ovpn" }
+    
+
+],
+"message":" 
+📱รองรับการใช้งานทุกเครือข่าย
+คอนฟิกเวอร์ชั่น:1
+อัพเดทเมื่อวันที่:07/มิ.ย/2023
+Copyright © 2022 NET-D LIMITED
+\n  ",
+"title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
+"version":1
+}
