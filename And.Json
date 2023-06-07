@@ -1,29 +1,57 @@
 {
+
    "files": [    
 
-
 {
+
          "name": "RCADYIDC-TH-01-AIS",
+
          "url": "https://raw.githubusercontent.com/paruye2545/NET-D-SCARZ-/main/SCARZ_TH_AIS.1.ovpn"
-      }
-,
-{
-         "name": "RCADYIDC-TH-01-DTAC",
-         "url": "https://raw.githubusercontent.com/paruye2545/NET-D-SCARZ-/main/CAT-DTAC-NOPRO.1.ovpn"
-      }
-,
-{
-         "name": "RCADYIDC-TH-01-TRUE",
-         "url": "https://raw.githubusercontent.com/paruye2545/NET-D-SCARZ-/main/CAT-TRUE-NOPRO.3.ovpn"
+
       }
 
+,
+
+{
+
+         "name": "RCADYIDC-TH-01-DTAC",
+
+         "url": "https://raw.githubusercontent.com/paruye2545/NET-D-SCARZ-/main/CAT-DTAC-NOPRO.1.ovpn"
+
+      }
+
+,
+
+{
+
+         "name": "RCADYIDC-TH-01-TRUE",
+
+         "url": "https://raw.githubusercontent.com/paruye2545/NET-D-SCARZ-/main/CAT-TRUE-NOPRO.3.ovpn"
+
+      }
 
    ],
+
 "message":"
-❤️
 
+■■■■■■■■■■■■■■
 
-\n\nเวอร์ชั่นไฟล์:1.1",
+🔔Update 1.2
+
+■■■■■■■■■■■■■■
+
+📗Ais PRO AIS play
+
+📕True FREE NO pro
+
+📘Dtac FREE NO pro
+
+■■■■■■■■■■■■■■
+
+\n\nเวอร์ชั่นไฟล์:1.2",
+
 "title":"New Update File" ,
-   "version":1.1
-}     
+
+   "version":1.2
+
+}
