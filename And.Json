@@ -2,40 +2,28 @@
    "files": [    
 
 
-
 {
-         "name": "VIP-RCADYIDC-TH-01-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/APPNET/main/APPNET-SV-01-A.ovpn"
+         "name": "RCADYIDC-TH-01-AIS",
+         "url": "https://raw.githubusercontent.com/paruye2545/NET-D-SCARZ-/main/SCARZ_TH_AIS.1.ovpn"
       }
 ,
 {
-         "name": "VIP-RCADYIDC-TH-01-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/APPNET/main/APPNET-SV-01-D.ovpn"
+         "name": "RCADYIDC-TH-01-DTAC",
+         "url": "https://raw.githubusercontent.com/paruye2545/NET-D-SCARZ-/main/CAT-DTAC-NOPRO.1.ovpn"
       }
 ,
 {
-         "name": "VIP-RCADYIDC-TH-01-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/APPNET/main/APPNET-SV-01-T.ovpn"
+         "name": "RCADYIDC-TH-01-TRUE",
+         "url": "https://raw.githubusercontent.com/paruye2545/NET-D-SCARZ-/main/CAT-TRUE-NOPRO.3.ovpn"
       }
-
 
 
    ],
 "message":"
-❤️APP NET
--แบบรายปี
-
-❤️ยินดีต้อนรับครับ
-✅ราคาประหยัด
-✅ถูก สะดวก รวดเร็ว
-✅ที่สำคัญปลอดภัยแน่นอน
-✅️ไม่มีเก็บเงินย้อนหลัง
-
-🧸รองรับทุกการใช้งาน
-ดีเทค-ทรูมูฟ
+❤️
 
 
-\n\nเวอร์ชั่นไฟล์:9",
+\n\nเวอร์ชั่นไฟล์:1.1",
 "title":"New Update File" ,
-   "version":9
-}
+   "version":1.1
+}     
