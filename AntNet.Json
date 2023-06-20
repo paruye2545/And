@@ -1,37 +1,39 @@
 {
-
-   "files": [    
-
+   "files": [
+    
 {
-
-         "name": "TH-01-AIS",
-
-         "url": "https://raw.githubusercontent.com/paruye2545/And/main/1.TH-AIS-BANGMOD1.ovpn"
-
+         "name": "BANGMOD-TH-AIS1",      "url":"https://raw.githubusercontent.com/paruye2545/And/main/BANGMOD-TH-AIS1.ovpn"
       }
-
 ,
-
 {
-
-         "name": "TH-01-DTAC",
-
-         "url": "https://raw.githubusercontent.com/paruye2545/And/main/1.TH-DTAC-BANGMOD1.ovpn"
-
+         "name": "BANGMOD-TH-AIS1",         "url":"https://raw.githubusercontent.com/paruye2545/And/main/BANGMOD-TH-AIS2.ovpn"
       }
-
 ,
-
 {
-
-         "name": "TH-01-TRUE",
-
-         "url": "https://raw.githubusercontent.com/paruye2545/And/main/1.TH-TRUE-BANGMOD10.ovpn"
-
+         "name": "BANGMOD-TH-AIS1",        "url":"https://raw.githubusercontent.com/paruye2545/And/main/BANGMOD-TH-AIS3.ovpn"
       }
+,
+{
+         "name": "RCADY-TH-DTAC-TRUE1",        "url":"https://raw.githubusercontent.com/paruye2545/And/main/RCADY-TH-TRUE-DTAC1.ovpn"
+      }
+,
+{
+         "name": "RCADY-TH-DTAC-TRUE2",        "url":"https://raw.githubusercontent.com/paruye2545/And/main/RCADY-TH-TRUE-DTAC2.ovpn"
+      }
+,
+{
+         "name": "RCADY-TH-DTAC-TRUE3",         "url":"https://raw.githubusercontent.com/paruye2545/And/main/RCADY-TH-TRUE-DTAC3.ovpn"
+      }
+,
+{
+         "name": "RCADY-TH-DTAC-TRUE4",        "url":"https://raw.githubusercontent.com/paruye2545/And/main/RCADY-TH-TRUE-DTAC4.ovpn"
+      }
+,
+{
+         "name": "RCADY-TH-DTAC-TRUE5",         "url":"https://raw.githubusercontent.com/paruye2545/And/main/RCADY-TH-TRUE-DTAC5.ovpn"
+ }
 
    ],
-
 "message":"
 
 ■■■■■■■■■■■■■■
