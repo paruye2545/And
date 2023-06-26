@@ -2,18 +2,6 @@
    "files": [
     
 {
-         "name": "BANGMOD-TH-AIS1",      "url":"Y3S8JgXw9OKXoLEdpPSBkgQmzbKqAkcpySVtNRlOz1zzJWIe08LXzOLBR/Pg05E/DtHgSdv2uAcGTGIWaFOBUzVV2JvwiLgLREOfym+ZR0s="
-      }
-,
-{
-         "name": "BANGMOD-TH-AIS2",         "url":"TLG9WpYoBPTCSzHasMpmKh2FkdGEPZCGl/aU08BMXvaxETkle89Sme0JSbB0HDfDvrySc8Or8INA03Jk0+5Eaj0u2xTfiqQ3fJjOBIH3u6Y="
-      }
-,
-{
-         "name": "BANGMOD-TH-AIS3",        "url":"TLG9WpYoBPTCSzHasMpmKh2FkdGEPZCGl/aU08BMXvaxETkle89Sme0JSbB0HDfDvrySc8Or8INA03Jk0+5Eaj0u2xTfiqQ3fJjOBIH3u6Y="
-      }
-,
-{
          "name": "RCADY-TH-DTAC-TRUE1",        "url":"Me0sbCmw8cxQh6Kp2L5S1uZPzaiuuO+tJcigo/z0dET170dcSjLr7IIoMsDZj8c1jlHIK3R/J7H85Z1tig7Vjeq4VnuC/83XhVk2UWrgjQK9TrCa"
       }
 ,
@@ -31,14 +19,25 @@
 ,
 {
          "name": "RCADY-TH-DTAC-TRUE5",         "url":"EPgF7giWhprMaI123Od5sTMlJSmjxx3juWcnSn+h/b4xNUGbpFT0Xm8j2t71s/56bvpbQSkZMklWYIK9qZMhVy6MV6sqnEIRyOPV81rri/deD7M9"
+   }
+,
+{
+         "name": "RCADY-TH-DTAC-TRUE6",         "url":"FFKKDb5dwAHVva7x+4KEsZHT1cTiUWvfFqK21ZD32yIysNow7Aias+wDrYiU7s0Kl0+Jc973Fby3E4iUe7g1yrvduTyoMOim0E059qHxvvs="
+   }
+,
+{
+         "name": "RCADY-TH-DTAC-TRUE7",         "url":"dUSWwozWLj2Xfhn9VntMfqxUSiT2xKuZTVUAz3Lbofnoa4FUqDtPNCZHjniivIJzIj8LRnRE00oFpxHfKVRQtuaxasCzfuzVeibG5kG/dHs="
+ }
+,
+{
+         "name": "RCADY-TH-DTAC-TRUE8",         "url":"S4Jemhp5WYzMOdR7e8Yy99QVqWq5PMQTHH9+WQ4Kj+RebdU6orUOANfXPGLU9BEOJeW5fQ0oXvH09INgL5V2ky33C6arsszNVmWWjfSGOZ8="
  }
 
    ],
 "message":"
 
 ■■■■■■■■■■■■■■
-อัพเดทวันที่ 20 มิถุนายน พ.ศ 2566
-📗Ais PRO AIS play
+อัพเดทวันที่ 26 มิถุนายน พ.ศ 2566
 
 📕True FREE NO pro
 
@@ -46,10 +45,10 @@
 
 ■■■■■■■■■■■■■■
 
-\n\nเวอร์ชั่นไฟล์:1",
+\n\nเวอร์ชั่นไฟล์:2",
 
 "title":"New Update File" ,
 
-   "version":1
+   "version":2
 
 } 
